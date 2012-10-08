@@ -239,7 +239,7 @@ package CodePortingCSharp2Java;
      * </p>
      */
     public static String Token = "";   
-    public String Test2="here";		
+    public String Test21="here";		
 } public class SigninToken
 {
     /**
