@@ -112,6 +112,114 @@
      *//**
      * <p>
      * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
+     *//**
+     * <p>
+     * </p>
      *//*--------------------------------------------------------------------------------------+
 |   
 |  This sample is developed and maintained by CodePorting venture
@@ -125,6 +233,294 @@ package CodePortingCSharp2Java;
 
 
  public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
+{
+    /**
+     * <p>
+     * </p>
+     */
+    public static String Token = "";   
+    public String Test2="here";		
+} public class SigninToken
 {
     /**
      * <p>
